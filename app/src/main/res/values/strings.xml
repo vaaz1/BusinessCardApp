@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SP:Jakob</string>
+    <string name="phone_number">+49 7631 2976</string>
+    <string name="email">info@jakob-tv.de</string>
+    <string name="homepage">http://www.jakob-tv.de</string>
+    <string name="opening_hours">Öffnungszeiten:
+        \nMo. bis Fr. 9.00 bis 12.30 Uhr
+        \nund 15.00 bis 18.00 Uhr,
+        \nMi. und Sa. Nachmittag geschlossen</string>
+    <string name="address">Hauptstr. 139 \n79379 Müllheim</string>
+    <string name="service">Unsere Dienstleistung: TV-Geräte und -Empfang</string>
+
+</resources>
